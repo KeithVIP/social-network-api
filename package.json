@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeithVIP/social-network-api.git"
+  },
+  "author": "Keith Yanosy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeithVIP/social-network-api/issues"
+  },
+  "homepage": "https://github.com/KeithVIP/social-network-api#readme",
+  "dependencies": {
+    "mongoose": "^6.4.1"
+  }
+}

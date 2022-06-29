@@ -11,7 +11,7 @@ app.use(require("./routes"));
 mongoose.connect(
     process.env.MONGODB_URI || "mongodb://localhost/social-network-api",
     {
-        // useFindAndModify: false,
+        // useFindAndModify: false, // useFindAndModify not supported on Mongo 6+
         useNewUrlParser: true,
         useUnifiedTopology: true,
     }

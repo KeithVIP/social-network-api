@@ -46,6 +46,10 @@ SO THAT my website can handle large amounts of unstructured data
 * moment
 * mongoose
 
+## Server Start Video
+
+https://drive.google.com/file/d/1fhWapYwz9MwtN_haqlL57EkeQW2VENjz/view
+
 ## User Routes Video
 
 https://drive.google.com/file/d/1uwFH-2mf4q9elhcn8uEXkovBUsBdAAiY/view

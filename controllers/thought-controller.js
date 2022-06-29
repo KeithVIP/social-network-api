@@ -104,7 +104,7 @@ const thoughtController = {
             });
     },
 
-    // POST /api/thoughts/:id/reactions
+    // POST /api/:thoughtID/reactions
     addReaction(req, res) {
         Thought.findOneAndUpdate(
             { _id: req.params.thoughtId },
@@ -123,7 +123,7 @@ const thoughtController = {
             });
     },
 
-    // DELETE /api/thoughts/:id/reactions
+    // DELETE /api/:thoughtID/reactions
     // {
     //     "reactionId": "..."  // should be a reactionId in matching Thought
     // }

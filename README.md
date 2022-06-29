@@ -46,17 +46,21 @@ SO THAT my website can handle large amounts of unstructured data
 * moment
 * mongoose
 
-## First Walkthrough Video
+## User Routes Video
 
-https://drive.google.com/file/d/1FIDFMD1djW_nAVX51QmKarixMYFBqaNe/view
+https://drive.google.com/file/d/1uwFH-2mf4q9elhcn8uEXkovBUsBdAAiY/view
 
-## Second Walthrough Video
+## Friends Routes Video
 
-https://drive.google.com/file/d/1jfoUxHn6mvMghFbQVTBpPzR0j8LLRKoU/view
+https://drive.google.com/file/d/12ylaBgpiQD8ZWhFsF3UBIprtYCLPN-40/view
 
-## Third Walkthrough Video
+## Thoughts Routes Video
 
-https://drive.google.com/file/d/1hjOSw_-NAedJoMZJibmLCy6X0aLPwzu-/view
+https://drive.google.com/file/d/1swxQHFEbNJJJhagsnlgxGH5xdlgFxS7S/view
+
+## Reactions Routes Video
+
+https://drive.google.com/file/d/1frmn1_Z9XC5XZNQoFsEWO4kKYmYd_m7F/view
 
 
 ## Questions
